@@ -9,12 +9,4 @@ export default function App({ Component, pageProps }: AppProps) {
     </Layout>
   )
 }
-```
 
----
-
-## 📂 **Where to Place This File:**
-```
-alx-project-0x07/
-└── pages/
-    └── _app.tsx          ← Place here
